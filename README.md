@@ -1,17 +1,20 @@
-# Sven-Assorted-Data-Visuals
-Assorted Data Visuals done in Python, Excel and Tableau
+# DataIsBeautiful-Visualisations
 
-These are some data visualisations that I made on my own from 2019-2020.
-Tools that I used in these Data visuals include:
+These are some data visualisations that I made on current trending topics. 
+Some of these visuals were posted on r/dataisbeautiful and were upvoted by more than 60k users.
+
+Tools used include:
 
 - Excel
-- Tableau
-- Python
-- Gephi
+- Python, Pandas, MatPlotLib
+- Tableau, Gephi, GraphJS
+- Photoshop (Minor Refinements, add headings)
 
-Some sample data visuals:
+## Some sample data visuals
 
 ![pandemics](https://user-images.githubusercontent.com/39799639/229413552-91ee1f32-6e49-4234-80c4-74bd9d72c989.jpg)
 
 ![Disney Live Action](https://user-images.githubusercontent.com/39799639/229413506-e506235e-4c1d-4eb8-a1cc-293c9d961689.jpg)
+
+
 
