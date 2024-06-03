@@ -1,7 +1,6 @@
-# DataIsBeautiful-Visualisations
+![229413552-91ee1f32-6e49-4234-80c4-74bd9d72c989](https://github.com/EssWhyy/DataIsBeautiful-Visualisations/assets/39799639/4e09f390-7026-42e0-9c5a-5b8f8e6b34d7)# DataIsBeautiful-Visualisations
 
-These are some data visualisations that I made on current trending topics. 
-Some of these visuals were posted on r/dataisbeautiful and were upvoted by more than 60k users.
+A selection of informative data visualisations which I made from 2019-2020
 
 Tools used include:
 
@@ -11,13 +10,7 @@ Tools used include:
 
 ## Some sample data visuals
 
-### Tableau 
+![302231492-b55028e8-ffcf-42f9-a976-55060d678b6a](https://github.com/EssWhyy/DataIsBeautiful-Visualisations/assets/39799639/c36df44d-4486-4f64-a036-402c62578bc1)
+![229413552-91ee1f32-6e49-4234-80c4-74bd9d72c989](https://github.com/EssWhyy/DataIsBeautiful-Visualisations/assets/39799639/e1b43cd7-33ac-49b9-9048-4acf6e6d4e05)
+<img width="400" alt="302227907-b6d11777-c683-496c-8c7c-974fb9c22b50" src="https://github.com/EssWhyy/DataIsBeautiful-Visualisations/assets/39799639/bf18914a-e56e-4f53-9dca-ed110432d4cc">
 
-<img width="611" alt="Covid Initial Spread March 2020" src="https://user-images.githubusercontent.com/39799639/229413552-91ee1f32-6e49-4234-80c4-74bd9d72c989.jpg">
-<img width="611" alt="Disney Live Action" src="https://github.com/EssWhyy/DataIsBeautiful-Visualisations/assets/39799639/b55028e8-ffcf-42f9-a976-55060d678b6a">
-
-### Gephi
-<img width="611" alt="Genesis Character Bonds" src="https://github.com/EssWhyy/DataIsBeautiful-Visualisations/assets/39799639/b6d11777-c683-496c-8c7c-974fb9c22b50">
-
-### GraphJS 
-(Coming Soon)
