@@ -8,7 +8,6 @@ Tools used include:
 - Excel
 - Python, Pandas, MatPlotLib
 - Tableau, Gephi, GraphJS
-- Photoshop (Minor Refinements, add headings)
 
 ## Some sample data visuals
 
